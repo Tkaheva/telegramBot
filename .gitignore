@@ -1,0 +1,24 @@
+# --- Секреты и данные ---
+.env
+habits_data.json
+*.session
+*.session-journal
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+.DS_Store
+
+# --- Логи ---
+*.log
